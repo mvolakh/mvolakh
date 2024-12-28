@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Mikita. A software developer with expertise in fullstack development, DevOps, Cloud, and ML/AI.</h1>
+<h3 align="left">A software developer with expertise in fullstack development, DevOps, Cloud, and ML/AI.</h1>
 
 💬 Talk to me about **Vue, Node.js frameworks (Express, Fastify, Koa, Nest.js, Encore.ts) and computer games!**
 
